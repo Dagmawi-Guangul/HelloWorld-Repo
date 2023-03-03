@@ -1,4 +1,4 @@
-"""#lab4
+#lab4
 number = int(input("Enter an upper bound for a check: "))
 
 sum = 0
